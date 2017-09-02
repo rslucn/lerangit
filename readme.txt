@@ -8,3 +8,5 @@ Git tracks changes of files.
 creating a new branch is quick and quick
 
 cerating a new branch dev and work is finished
+
+change in clone

@@ -18,6 +18,7 @@ class Application(Frame):
         messagebox.showinfo('Message', 'Hello, %s' % name)
 
 
+# application programm
 app = Application()
 # 设置窗口标题:
 app.master.title('Hello World')
